@@ -1,0 +1,61 @@
+body {
+    margin: 8%;
+}
+.motor {
+    background-color: rgb(231, 228, 228);
+    font-size: x-large;
+}
+.boyut {
+    width: 45%;
+}
+.firstdiv {
+    width: 40%;
+    background-color:rgb(58, 181, 181);
+    float: left;
+    text-align: center;
+    margin: 3px;
+    display: inline-block;
+    height: 91px;
+}
+.seconddiv {
+    width: 22%;
+    background-color:rgb(12, 205, 205) ;
+    text-align: center;
+    display: inline-block;
+    font-size:smaller;
+    margin-top: 3px;
+    margin-right: 3px;
+    float: left;
+    height: 91px;
+}
+.thirddiv {
+    width: 37%;
+    background-color:rgb(10, 206, 206);
+    text-align: center;
+    display: inline-block;
+    margin-top: 3px;
+    font-size: smaller;
+    letter-spacing: 0;
+}
+p {
+    padding-bottom: 0;
+}
+a{ 
+    display:block;
+    padding-top: 0;
+}
+li{
+    list-style-type: none;;
+}
+a:link{
+    color: blue;
+}
+a:active{
+    color: orange;
+}
+a:visited{
+    color: purple;
+}
+a:hover{
+    color: rgb(212, 93, 50);
+}
